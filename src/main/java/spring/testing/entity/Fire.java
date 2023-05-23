@@ -26,6 +26,9 @@ public class Fire {
     this.date = date;
   }
 
+  public Fire() {
+  }
+
   public Long getId() {
     return id;
   }
